@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2017, 5:04:09 PM
+    Author     : MaxwellDonkor
+*/
+
+.navbar-header button {
+    color: #122b40;
+    border: 1px solid #a94442;
+}
+
+#navbar li {
+    /*font-weight: bold;*/
+    font-size: 1.8em;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+body {
+    background-color: #35F2F2;
+}
+
