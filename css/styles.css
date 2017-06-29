@@ -7,16 +7,20 @@ and open the template in the editor.
     Created on : Jun 16, 2017, 5:04:09 PM
     Author     : MaxwellDonkor
 */
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+@import url(http://weloveiconfonts.com/api/?family=zocial);
 
 .navbar-header button {
     color: #122b40;
     border: 1px solid #a94442;
 }
 
-#navbar li {
-    /*font-weight: bold;*/
+#navbarlist li {
+    font-weight: bold;
     font-size: 1.8em;
-    font-family: 'Roboto Slab', serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'Pangolin', cursive;
+    color: #770d9c;
     
 }
 
@@ -24,3 +28,44 @@ body {
     background-color: #35F2F2;
 }
 
+#image {
+    background-color: #fff;
+}
+
+
+
+/* zocial */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
+
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+#footer ul {
+    list-style: none;
+    font-size: 2em;
+    padding: 0;
+}
+
+#footer li {
+    display: inline;
+    padding: 5px;
+    color: #770d9c;
+}
+
+#video {
+    box-shadow: 1px 1px 5px #770d9c, -1px -1px 5px #770d9c;
+}
+
+#desc {
+    padding: 35% 5%;
+    height: 100%;
+}
+
+blockquote {
+    border: 0px;
+}

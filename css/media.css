@@ -9,40 +9,25 @@ and open the template in the editor.
 */
 
 @media only screen and (max-width : 1200px) {
-        #video iframe {
-        height: 550px;
-        width: 100%;
-        }
+      
     }
 
     /* Medium Devices, Desktops */
     @media only screen and (max-width : 992px) {
-        #video iframe {
-        height: 500px;
-        width: 100%;
-        }
+       
     }
 
     /* Small Devices, Tablets */
     @media only screen and (max-width : 768px) {
-        #video iframe {
-        height: 450px;
-        width: 100%;
-        }
+       
     }
 
     /* Extra Small Devices, Phones */ 
     @media only screen and (max-width : 480px) {
-        #video iframe {
-        height: 350px;
-        width: 100%;
-        }
+       
     }
 
     /* Custom, iPhone Retina */ 
     @media only screen and (max-width : 320px) {
-        #video iframe {
-        height: 200px;
-        width: 100%;
-        }    
+        
     }
