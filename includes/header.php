@@ -13,6 +13,7 @@ and open the template in the editor.
         <link rel="stylesheet" href="css/styles.css"> 
         <link rel="stylesheet" href="css/media.css"> 
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
         <script
             src="https://code.jquery.com/jquery-3.2.1.js"
@@ -22,8 +23,7 @@ and open the template in the editor.
     </head>
     <body>
         
-        <div class="container">
-            <div class="container">
+       
                 <div class="container" id="header">
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarlist" aria-expanded="false" aria-controls="navbar">
@@ -32,16 +32,15 @@ and open the template in the editor.
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.php">SHB</a>
+                        <a class="navbar-brand" href="index.php"><img src="images/SHB1.png" class="img-responsive"></a>
                     </div>
                     <div id="navbarlist" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right text-uppercase">
                             <li class="active"><a href="index.php">Welcome</a></li>
                             <li class="active"><a href="about.php">The Boy</a></li>
-                            <li class="active"><a href="services.php">Gallery</a></li>
+                            <li class="active"><a href="gallery.php">Gallery</a></li>
                             <li class="active"><a href="contact.php">Hit me up!!</a></li>
                         </ul>
                     </div>
                 </div>
-            </div>
-        </div>
+        

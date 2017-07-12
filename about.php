@@ -12,11 +12,17 @@ include 'includes/header.php';
 
 <div class="container-fluid box">
     <div class="col-md-7 text-uppercase">
-        <h3 class="text-center text-muted" id="desc">
-            <blockquote>He is the Boy with the Sharpest words to draw your audience attention and communicates right.</blockquote>
+        <h3 class="text-center" id="desc">
+            <blockquote>You don't know what a good laugh is, until you have met the most sort after MC in the Washington D.C, Maryland and Viginia area. <hr>MC ELLIS.</blockquote>
         </h3>
     </div>
     <div class="col-lg-5">
         <img src="images/img_9915.png" class="img-rounded img-responsive" >
     </div>
 </div> 
+
+<?php
+
+        include 'includes/footer.php';
+        
+        ?>
